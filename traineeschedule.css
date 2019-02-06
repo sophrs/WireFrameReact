@@ -1,0 +1,26 @@
+table{
+	width: 35%;
+
+
+	
+}
+
+th,td{
+	padding: 10px;
+
+}
+
+
+div.pagecontent{
+	background-color:lightblue;
+	border-style: solid;
+	width: 50%;
+	margin-left: auto;
+	margin-right:auto;
+
+}
+
+div.container{
+	border-style:solid;
+	width:50%;
+}
